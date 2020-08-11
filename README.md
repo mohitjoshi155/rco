@@ -1,6 +1,5 @@
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ## Optionally sync downloaded file to your cloud drive with Rclone
 
